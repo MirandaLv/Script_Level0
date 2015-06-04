@@ -1,0 +1,694 @@
+project_id	sector
+COL1	Consolidación de la Paz
+COL2	Educación para la Inclusión Social
+COL3	Salud y Protección Social
+COL4	Primera Infancia, Niñez, Adolescencia y Juventud
+COL5	Ciencia, Tecnología e Innovación (CTI)
+COL6	Ciencia, Tecnología e Innovación (CTI)
+COL7	Ciencia, Tecnología e Innovación (CTI)
+COL8	Fomento de la Ocupación y Formación Profesional
+COL9	Fomento de la Ocupación y Formación Profesional
+COL10	Fomento de la Ocupación y Formación Profesional
+COL11	Fortalecimiento de la Productividad y Competitividad
+COL12	Fortalecimiento de la Productividad y Competitividad
+COL13	Fortalecimiento de la Productividad y Competitividad
+COL14	Educación para la Inclusión Social
+COL15	Fortalecimiento de la Productividad y Competitividad
+COL16	Buen Gobierno
+COL17	Consolidación de la Paz
+COL18	Fortalecimiento de la Productividad y Competitividad
+COL19	Fortalecimiento de la Productividad y Competitividad
+COL20	Buen Gobierno
+COL21	Fortalecimiento de la Productividad y Competitividad
+COL22	Fortalecimiento de la Productividad y Competitividad
+COL23	Fortalecimiento de la Productividad y Competitividad
+COL24	Fortalecimiento de la Productividad y Competitividad
+COL25	Fortalecimiento de la Productividad y Competitividad
+COL26	Fortalecimiento de la Productividad y Competitividad
+COL27	Fortalecimiento de la Productividad y Competitividad
+COL28	Fortalecimiento de la Productividad y Competitividad
+COL29	Fortalecimiento de la Productividad y Competitividad
+COL30	Fortalecimiento de la Productividad y Competitividad
+COL31	Fortalecimiento de la Productividad y Competitividad
+COL32	Fortalecimiento de la Productividad y Competitividad
+COL33	Fortalecimiento de la Productividad y Competitividad
+COL34	Fortalecimiento de la Productividad y Competitividad
+COL35	Buen Gobierno
+COL36	Fortalecimiento de la Productividad y Competitividad
+COL37	Consolidación de la Paz
+COL38	Fortalecimiento de la Productividad y Competitividad
+COL39	Fortalecimiento de la Productividad y Competitividad
+COL40	Fortalecimiento de la Productividad y Competitividad
+COL41	Fortalecimiento de la Productividad y Competitividad
+COL42	Fortalecimiento de la Productividad y Competitividad
+COL43	Fortalecimiento del Sector Agropecuario
+COL44	Fortalecimiento del Sector Agropecuario
+COL45	Consolidación de la Paz
+COL46	Fortalecimiento del Sector Agropecuario
+COL47	Fortalecimiento del Sector Agropecuario
+COL48	Fortalecimiento del Sector Agropecuario
+COL49	Buen Gobierno
+COL50	Fortalecimiento del Sector Agropecuario
+COL51	Apoyo Transversal al desarrollo regional
+COL52	Apoyo Transversal al desarrollo regional
+COL53	Apoyo Transversal al desarrollo regional
+COL54	Buen Gobierno
+COL55	Buen Gobierno
+COL56	Buen Gobierno
+COL57	Consolidación de la Paz
+COL58	Consolidación de la Paz
+COL59	Consolidación de la Paz
+COL60	Buen Gobierno
+COL61	Buen Gobierno
+COL62	Buen Gobierno
+COL63	Buen Gobierno
+COL64	Buen Gobierno
+COL65	Buen Gobierno
+COL66	Buen Gobierno
+COL67	Buen Gobierno
+COL68	Buen Gobierno
+COL69	Consolidación de la Paz
+COL70	Consolidación de la Paz
+COL71	Consolidación de la Paz
+COL72	Consolidación de la Paz
+COL73	Consolidación de la Paz
+COL74	Consolidación de la Paz
+COL75	Consolidación de la Paz
+COL76	Consolidación de la Paz
+COL77	Consolidación de la Paz
+COL78	Consolidación de la Paz
+COL79	Consolidación de la Paz
+COL80	Primera Infancia, Niñez, Adolescencia y Juventud
+COL81	Consolidación de la Paz
+COL82	Consolidación de la Paz
+COL83	Consolidación de la Paz
+COL84	Consolidación de la Paz
+COL85	Consolidación de la Paz
+COL86	Consolidación de la Paz
+COL87	Consolidación de la Paz
+COL88	Consolidación de la Paz
+COL89	Consolidación de la Paz
+COL90	Consolidación de la Paz
+COL91	Agua y Saneamiento
+COL92	Consolidación de la Paz
+COL93	Consolidación de la Paz
+COL94	Consolidación de la Paz
+COL95	Consolidación de la Paz
+COL96	Consolidación de la Paz
+COL97	Agua y Saneamiento
+COL98	Primera Infancia, Niñez, Adolescencia y Juventud
+COL99	Atención Diferencial a Grupos Étnicos
+COL100	Política Nacional de Consolidación y Reconstrucción Territorial - PNCRT
+COL101	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL102	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL103	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL104	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL105	Agua y Saneamiento
+COL106	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL107	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL108	Agua y Saneamiento
+COL109	Agua y Saneamiento
+COL110	Agua y Saneamiento
+COL111	Agua y Saneamiento
+COL112	Atención Diferencial a Grupos Étnicos
+COL113	Agua y Saneamiento
+COL114	Atención Diferencial a Grupos Étnicos
+COL115	Educación para la Inclusión Social
+COL116	Atención Diferencial a Grupos Étnicos
+COL117	Atención Diferencial a Grupos Étnicos
+COL118	Atención Diferencial a Grupos Étnicos
+COL119	Atención Diferencial a Grupos Étnicos
+COL120	Atención Diferencial a Grupos Étnicos
+COL121	Atención Diferencial a Grupos Étnicos
+COL122	Educación para la Inclusión Social
+COL123	Atención Diferencial a Grupos Étnicos
+COL124	Atención Diferencial a Grupos Étnicos
+COL125	Atención Diferencial a Grupos Étnicos
+COL126	Atención Diferencial a Grupos Étnicos
+COL127	Atención Diferencial a Grupos Étnicos
+COL128	Atención Diferencial a Grupos Étnicos
+COL129	Atención Diferencial a Grupos Étnicos
+COL130	Primera Infancia, Niñez, Adolescencia y Juventud
+COL131	Atención Diferencial a Grupos Étnicos
+COL132	Atención Diferencial a Grupos Étnicos
+COL133	Atención Diferencial a Grupos Étnicos
+COL134	Atención Diferencial a Grupos Étnicos
+COL135	Derechos Humanos y Derecho Internacional Humanitario
+COL136	Cultura
+COL137	Cultura
+COL138	Cultura
+COL139	Cultura
+COL140	Educación para la Inclusión Social
+COL141	Educación para la Inclusión Social
+COL142	Educación para la Inclusión Social
+COL143	Mujeres y Equidad de Género
+COL144	Educación para la Inclusión Social
+COL145	Educación para la Inclusión Social
+COL146	Educación para la Inclusión Social
+COL147	Educación para la Inclusión Social
+COL148	Primera Infancia, Niñez, Adolescencia y Juventud
+COL149	Educación para la Inclusión Social
+COL150	Educación para la Inclusión Social
+COL151	Primera Infancia, Niñez, Adolescencia y Juventud
+COL152	Educación para la Inclusión Social
+COL153	Primera Infancia, Niñez, Adolescencia y Juventud
+COL154	Mujeres y Equidad de Género
+COL155	Mujeres y Equidad de Género
+COL156	Mujeres y Equidad de Género
+COL157	Mujeres y Equidad de Género
+COL158	Mujeres y Equidad de Género
+COL159	Primera Infancia, Niñez, Adolescencia y Juventud
+COL160	Mujeres y Equidad de Género
+COL161	Mujeres y Equidad de Género
+COL162	Mujeres y Equidad de Género
+COL163	Mujeres y Equidad de Género
+COL164	Mujeres y Equidad de Género
+COL165	Mujeres y Equidad de Género
+COL166	Mujeres y Equidad de Género
+COL167	Mujeres y Equidad de Género
+COL168	Primera Infancia, Niñez, Adolescencia y Juventud
+COL169	Primera Infancia, Niñez, Adolescencia y Juventud
+COL170	Primera Infancia, Niñez, Adolescencia y Juventud
+COL171	Primera Infancia, Niñez, Adolescencia y Juventud
+COL172	Primera Infancia, Niñez, Adolescencia y Juventud
+COL173	Primera Infancia, Niñez, Adolescencia y Juventud
+COL174	Primera Infancia, Niñez, Adolescencia y Juventud
+COL175	Primera Infancia, Niñez, Adolescencia y Juventud
+COL176	Primera Infancia, Niñez, Adolescencia y Juventud
+COL177	Primera Infancia, Niñez, Adolescencia y Juventud
+COL178	Primera Infancia, Niñez, Adolescencia y Juventud
+COL179	Primera Infancia, Niñez, Adolescencia y Juventud
+COL180	Primera Infancia, Niñez, Adolescencia y Juventud
+COL181	Primera Infancia, Niñez, Adolescencia y Juventud
+COL182	Primera Infancia, Niñez, Adolescencia y Juventud
+COL183	Primera Infancia, Niñez, Adolescencia y Juventud
+COL184	Reducción de la Pobreza Extrema
+COL185	Reducción de la Pobreza Extrema
+COL186	Reducción de la Pobreza Extrema
+COL187	Salud y Protección Social
+COL188	Salud y Protección Social
+COL189	Derechos Humanos y Derecho Internacional Humanitario
+COL190	Salud y Protección Social
+COL191	Salud y Protección Social
+COL192	Derechos Humanos y Derecho Internacional Humanitario
+COL193	Seguridad Alimentaria y Nutricional
+COL194	Seguridad Alimentaria y Nutricional
+COL195	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL196	Seguridad Alimentaria y Nutricional
+COL197	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL198	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL199	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL200	Medio Ambiente Urbano y Sectorial
+COL201	Consolidación de la Paz
+COL202	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL203	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL204	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL205	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL206	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL207	Medio Ambiente Urbano y Sectorial
+COL208	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL209	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL210	Derechos Humanos y Derecho Internacional Humanitario
+COL211	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL212	Cambio Climático Mitigación y Adaptación
+COL213	Cambio Climático Mitigación y Adaptación
+COL214	Cambio Climático Mitigación y Adaptación
+COL215	Cambio Climático Mitigación y Adaptación
+COL216	Energías Renovables
+COL217	Espacios Marinos y Costeros
+COL218	Espacios Marinos y Costeros
+COL219	Derechos Humanos y Derecho Internacional Humanitario
+COL220	Espacios Marinos y Costeros
+COL221	Gestión Integral del Recurso Hídrico
+COL222	Gestión Integral del Recurso Hídrico
+COL223	Gestión Integral del Recurso Hídrico
+COL224	Gestión Integral del Recurso Hídrico
+COL225	Medio Ambiente Urbano y Sectorial
+COL226	Medio Ambiente Urbano y Sectorial
+COL227	No aplica
+COL228	Reconciliación
+COL229	Reparación Integral
+COL230	Reconciliación
+COL231	Reconciliación
+COL232	Reconciliación
+COL233	Reconciliación
+COL234	Reconciliación
+COL235	Reparación Integral
+COL236	Reparación Integral
+COL237	Reparación Integral
+COL238	Reparación Integral
+COL239	Reparación Integral
+COL240	Reparación Integral
+COL241	Reparación Integral
+COL242	Reparación Integral
+COL243	Derechos Humanos y Derecho Internacional Humanitario
+COL244	Derechos Humanos y Derecho Internacional Humanitario
+COL245	Derechos Humanos y Derecho Internacional Humanitario
+COL246	Derechos Humanos y Derecho Internacional Humanitario
+COL247	Derechos Humanos y Derecho Internacional Humanitario
+COL248	Derechos Humanos y Derecho Internacional Humanitario
+COL249	Derechos Humanos y Derecho Internacional Humanitario
+COL250	Derechos Humanos y Derecho Internacional Humanitario
+COL251	Derechos Humanos y Derecho Internacional Humanitario
+COL252	Derechos Humanos y Derecho Internacional Humanitario
+COL253	Derechos Humanos y Derecho Internacional Humanitario
+COL254	Educación para la Inclusión Social
+COL255	Derechos Humanos y Derecho Internacional Humanitario
+COL256	Derechos Humanos y Derecho Internacional Humanitario
+COL257	Derechos Humanos y Derecho Internacional Humanitario
+COL258	Derechos Humanos y Derecho Internacional Humanitario
+COL259	Derechos Humanos y Derecho Internacional Humanitario
+COL260	Derechos Humanos y Derecho Internacional Humanitario
+COL261	Derechos Humanos y Derecho Internacional Humanitario
+COL262	Derechos Humanos y Derecho Internacional Humanitario
+COL263	Derechos Humanos y Derecho Internacional Humanitario
+COL264	Derechos Humanos y Derecho Internacional Humanitario
+COL265	Derechos Humanos y Derecho Internacional Humanitario
+COL266	Garantía Efectiva de los Derechos de las Víctimas
+COL267	Derechos Humanos y Derecho Internacional Humanitario
+COL268	Derechos Humanos y Derecho Internacional Humanitario
+COL269	Garantía Efectiva de los Derechos de las Víctimas
+COL270	Garantía Efectiva de los Derechos de las Víctimas
+COL271	Garantía Efectiva de los Derechos de las Víctimas
+COL272	Garantía Efectiva de los Derechos de las Víctimas
+COL273	Garantía Efectiva de los Derechos de las Víctimas
+COL274	Garantía Efectiva de los Derechos de las Víctimas
+COL275	Garantía Efectiva de los Derechos de las Víctimas
+COL276	Educación para la Inclusión Social
+COL277	Garantía Efectiva de los Derechos de las Víctimas
+COL278	Garantía Efectiva de los Derechos de las Víctimas
+COL279	Garantía Efectiva de los Derechos de las Víctimas
+COL280	Fortalecimiento de la Productividad y Competitividad
+COL281	Garantía Efectiva de los Derechos de las Víctimas
+COL282	Garantía Efectiva de los Derechos de las Víctimas
+COL283	Garantía Efectiva de los Derechos de las Víctimas
+COL284	Garantía Efectiva de los Derechos de las Víctimas
+COL285	Garantía Efectiva de los Derechos de las Víctimas
+COL286	Garantía Efectiva de los Derechos de las Víctimas
+COL287	Educación para la Inclusión Social
+COL288	Garantía Efectiva de los Derechos de las Víctimas
+COL289	Garantía Efectiva de los Derechos de las Víctimas
+COL290	Garantía Efectiva de los Derechos de las Víctimas
+COL291	Garantía Efectiva de los Derechos de las Víctimas
+COL292	Fortalecimiento de la Productividad y Competitividad
+COL293	Fortalecimiento de la Productividad y Competitividad
+COL294	Apoyo Transversal al desarrollo regional
+COL295	Buen Gobierno
+COL296	Buen Gobierno
+COL297	Buen Gobierno
+COL298	Consolidación de la Paz
+COL299	Educación para la Inclusión Social
+COL300	Mujeres y Equidad de Género
+COL301	Buen Gobierno
+COL302	Mujeres y Equidad de Género
+COL303	Primera Infancia, Niñez, Adolescencia y Juventud
+COL304	Energías Renovables
+COL305	Fortalecimiento de la Productividad y Competitividad
+COL306	Derechos Humanos y Derecho Internacional Humanitario
+COL307	Derechos Humanos y Derecho Internacional Humanitario
+COL308	Derechos Humanos y Derecho Internacional Humanitario
+COL309	Derechos Humanos y Derecho Internacional Humanitario
+COL310	Derechos Humanos y Derecho Internacional Humanitario
+COL311	Garantía Efectiva de los Derechos de las Víctimas
+COL312	Garantía Efectiva de los Derechos de las Víctimas
+COL313	Ciencia, Tecnología e Innovación (CTI)
+COL314	Fortalecimiento de la Productividad y Competitividad
+COL315	Fortalecimiento de la Productividad y Competitividad
+COL316	Fortalecimiento de la Productividad y Competitividad
+COL317	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL318	Ciencia, Tecnología e Innovación (CTI)
+COL319	Primera Infancia, Niñez, Adolescencia y Juventud
+COL320	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL321	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL322	Salud y Protección Social
+COL323	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL324	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL325	Cambio Climático Mitigación y Adaptación
+COL326	Buen Gobierno
+COL327	Energías Renovables
+COL328	Ciencia, Tecnología e Innovación (CTI)
+COL329	Medio Ambiente Urbano y Sectorial
+COL330	Medio Ambiente Urbano y Sectorial
+COL331	Medio Ambiente Urbano y Sectorial
+COL332	Reparación Integral
+COL333	Buen Gobierno
+COL334	Derechos Humanos y Derecho Internacional Humanitario
+COL335	Ciencia, Tecnología e Innovación (CTI)
+COL336	Fortalecimiento de la Productividad y Competitividad
+COL337	Ciencia, Tecnología e Innovación (CTI)
+COL338	Ciencia, Tecnología e Innovación (CTI)
+COL339	Fomento de la Ocupación y Formación Profesional
+COL340	Salud y Protección Social
+COL341	Fomento de la Ocupación y Formación Profesional
+COL342	Fortalecimiento de la Productividad y Competitividad
+COL343	Fortalecimiento de la Productividad y Competitividad
+COL344	Fortalecimiento de la Productividad y Competitividad
+COL345	Fortalecimiento de la Productividad y Competitividad
+COL346	Fortalecimiento de la Productividad y Competitividad
+COL347	Fortalecimiento de la Productividad y Competitividad
+COL348	Fortalecimiento de la Productividad y Competitividad
+COL349	Fortalecimiento de la Productividad y Competitividad
+COL350	Fortalecimiento de la Productividad y Competitividad
+COL351	Fortalecimiento de la Productividad y Competitividad
+COL352	Fortalecimiento de la Productividad y Competitividad
+COL353	Buen Gobierno
+COL354	Fortalecimiento de la Productividad y Competitividad
+COL355	Fortalecimiento del Sector Agropecuario
+COL356	Fortalecimiento del Sector Agropecuario
+COL357	Fortalecimiento del Sector Agropecuario
+COL358	Fortalecimiento del Sector Agropecuario
+COL359	Apoyo Transversal al desarrollo regional
+COL360	Buen Gobierno
+COL361	Buen Gobierno
+COL362	Buen Gobierno
+COL363	Buen Gobierno
+COL364	Buen Gobierno
+COL365	Buen Gobierno
+COL366	Consolidación de la Paz
+COL367	Consolidación de la Paz
+COL368	Consolidación de la Paz
+COL369	Educación para la Inclusión Social
+COL370	Consolidación de la Paz
+COL371	Reparación Integral
+COL372	Migraciones Internacionales
+COL373	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL374	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL375	Agua y Saneamiento
+COL376	Atención Diferencial a Grupos Étnicos
+COL377	Cultura
+COL378	Educación para la Inclusión Social
+COL379	Educación para la Inclusión Social
+COL380	Educación para la Inclusión Social
+COL381	Educación para la Inclusión Social
+COL382	Salud y Protección Social
+COL383	Migraciones Internacionales
+COL384	Mujeres y Equidad de Género
+COL385	Mujeres y Equidad de Género
+COL386	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL387	Mujeres y Equidad de Género
+COL388	Mujeres y Equidad de Género
+COL389	Primera Infancia, Niñez, Adolescencia y Juventud
+COL390	Primera Infancia, Niñez, Adolescencia y Juventud
+COL391	Reducción de la Pobreza Extrema
+COL392	Salud y Protección Social
+COL393	Salud y Protección Social
+COL394	Salud y Protección Social
+COL395	Salud y Protección Social
+COL396	Salud y Protección Social
+COL397	Salud y Protección Social
+COL398	Salud y Protección Social
+COL399	Salud y Protección Social
+COL400	Salud y Protección Social
+COL401	Salud y Protección Social
+COL402	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL403	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL404	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL405	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL406	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL407	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL408	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL409	Cambio Climático Mitigación y Adaptación
+COL410	Cambio Climático Mitigación y Adaptación
+COL411	Cambio Climático Mitigación y Adaptación
+COL412	Medio Ambiente Urbano y Sectorial
+COL413	Cambio Climático Mitigación y Adaptación
+COL414	Cambio Climático Mitigación y Adaptación
+COL415	Educación para la Inclusión Social
+COL416	Cambio Climático Mitigación y Adaptación
+COL417	Educación para la Inclusión Social
+COL418	Cambio Climático Mitigación y Adaptación
+COL419	Espacios Marinos y Costeros
+COL420	Espacios Marinos y Costeros
+COL421	Medio Ambiente Urbano y Sectorial
+COL422	Reconciliación
+COL423	Derechos Humanos y Derecho Internacional Humanitario
+COL424	Educación para la Inclusión Social
+COL425	Derechos Humanos y Derecho Internacional Humanitario
+COL426	Derechos Humanos y Derecho Internacional Humanitario
+COL427	Educación para la Inclusión Social
+COL428	Derechos Humanos y Derecho Internacional Humanitario
+COL429	Garantía Efectiva de los Derechos de las Víctimas
+COL430	Garantía Efectiva de los Derechos de las Víctimas
+COL431	Garantía Efectiva de los Derechos de las Víctimas
+COL432	Garantía Efectiva de los Derechos de las Víctimas
+COL433	Garantía Efectiva de los Derechos de las Víctimas
+COL434	Ciencia, Tecnología e Innovación (CTI)
+COL435	Primera Infancia, Niñez, Adolescencia y Juventud
+COL436	Primera Infancia, Niñez, Adolescencia y Juventud
+COL437	Garantía Efectiva de los Derechos de las Víctimas
+COL438	Desarrollo Minero Energético
+COL439	Buen Gobierno
+COL440	Atención Diferencial a Grupos Étnicos
+COL441	Reducción de la Pobreza Extrema
+COL442	Fortalecimiento del Sector Agropecuario
+COL443	Ciencia, Tecnología e Innovación (CTI)
+COL444	Fomento de la Ocupación y Formación Profesional
+COL445	Fomento de la Ocupación y Formación Profesional
+COL446	Fomento de la Ocupación y Formación Profesional
+COL447	Fomento de la Ocupación y Formación Profesional
+COL448	Fomento de la Ocupación y Formación Profesional
+COL449	Fortalecimiento del Sector Agropecuario
+COL450	Fortalecimiento de la Productividad y Competitividad
+COL451	Fortalecimiento de la Productividad y Competitividad
+COL452	Fortalecimiento de la Productividad y Competitividad
+COL453	Fortalecimiento de la Productividad y Competitividad
+COL454	Fortalecimiento de la Productividad y Competitividad
+COL455	Fortalecimiento del Sector Agropecuario
+COL456	Fortalecimiento del Sector Agropecuario
+COL457	Fortalecimiento del Sector Agropecuario
+COL458	Fortalecimiento del Sector Agropecuario
+COL459	Fortalecimiento del Sector Agropecuario
+COL460	Fortalecimiento del Sector Agropecuario
+COL461	Buen Gobierno
+COL462	Buen Gobierno
+COL463	Buen Gobierno
+COL464	Consolidación de la Paz
+COL465	Consolidación de la Paz
+COL466	Consolidación de la Paz
+COL467	Política Nacional de Consolidación y Reconstrucción Territorial - PNCRT
+COL468	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL469	Agua y Saneamiento
+COL470	Mujeres y Equidad de Género
+COL471	Agua y Saneamiento
+COL472	Agua y Saneamiento
+COL473	Agua y Saneamiento
+COL474	Atención Diferencial a Grupos Étnicos
+COL475	Atención Diferencial a Grupos Étnicos
+COL476	Atención Diferencial a Grupos Étnicos
+COL477	Atención Diferencial a Grupos Étnicos
+COL478	Atención Diferencial a Grupos Étnicos
+COL479	Atención Diferencial a Grupos Étnicos
+COL480	Atención Diferencial a Grupos Étnicos
+COL481	Atención Diferencial a Grupos Étnicos
+COL482	Atención Diferencial a Grupos Étnicos
+COL483	Atención Diferencial a Grupos Étnicos
+COL484	Atención Diferencial a Grupos Étnicos
+COL485	Atención Diferencial a Grupos Étnicos
+COL486	Atención Diferencial a Grupos Étnicos
+COL487	Cultura
+COL488	Educación para la Inclusión Social
+COL489	Educación para la Inclusión Social
+COL490	Educación para la Inclusión Social
+COL491	Educación para la Inclusión Social
+COL492	Educación para la Inclusión Social
+COL493	Educación para la Inclusión Social
+COL494	Educación para la Inclusión Social
+COL495	Educación para la Inclusión Social
+COL496	Educación para la Inclusión Social
+COL497	Educación para la Inclusión Social
+COL498	Educación para la Inclusión Social
+COL499	Mujeres y Equidad de Género
+COL500	Mujeres y Equidad de Género
+COL501	Mujeres y Equidad de Género
+COL502	Primera Infancia, Niñez, Adolescencia y Juventud
+COL503	Primera Infancia, Niñez, Adolescencia y Juventud
+COL504	Primera Infancia, Niñez, Adolescencia y Juventud
+COL505	Primera Infancia, Niñez, Adolescencia y Juventud
+COL506	Primera Infancia, Niñez, Adolescencia y Juventud
+COL507	Primera Infancia, Niñez, Adolescencia y Juventud
+COL508	Primera Infancia, Niñez, Adolescencia y Juventud
+COL509	Primera Infancia, Niñez, Adolescencia y Juventud
+COL510	Primera Infancia, Niñez, Adolescencia y Juventud
+COL511	Primera Infancia, Niñez, Adolescencia y Juventud
+COL512	Primera Infancia, Niñez, Adolescencia y Juventud
+COL513	Primera Infancia, Niñez, Adolescencia y Juventud
+COL514	Primera Infancia, Niñez, Adolescencia y Juventud
+COL515	Primera Infancia, Niñez, Adolescencia y Juventud
+COL516	Primera Infancia, Niñez, Adolescencia y Juventud
+COL517	Primera Infancia, Niñez, Adolescencia y Juventud
+COL518	Primera Infancia, Niñez, Adolescencia y Juventud
+COL519	Reducción de la Pobreza Extrema
+COL520	Reducción de la Pobreza Extrema
+COL521	Primera Infancia, Niñez, Adolescencia y Juventud
+COL522	Medio Ambiente Urbano y Sectorial
+COL523	Reducción de la Pobreza Extrema
+COL524	Reducción de la Pobreza Extrema
+COL525	Garantía Efectiva de los Derechos de las Víctimas
+COL526	Reducción de la Pobreza Extrema
+COL527	Seguridad Alimentaria y Nutricional
+COL528	Seguridad Alimentaria y Nutricional
+COL529	Seguridad Alimentaria y Nutricional
+COL530	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL531	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL532	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL533	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL534	Medio Ambiente Urbano y Sectorial
+COL535	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL536	Derechos Humanos y Derecho Internacional Humanitario
+COL537	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL538	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL539	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL540	Espacios Marinos y Costeros
+COL541	Espacios Marinos y Costeros
+COL542	Espacios Marinos y Costeros
+COL543	Espacios Marinos y Costeros
+COL544	Medio Ambiente Urbano y Sectorial
+COL545	Derechos Humanos y Derecho Internacional Humanitario
+COL546	Derechos Humanos y Derecho Internacional Humanitario
+COL547	Derechos Humanos y Derecho Internacional Humanitario
+COL548	Derechos Humanos y Derecho Internacional Humanitario
+COL549	Garantía Efectiva de los Derechos de las Víctimas
+COL550	Garantía Efectiva de los Derechos de las Víctimas
+COL551	Garantía Efectiva de los Derechos de las Víctimas
+COL552	Garantía Efectiva de los Derechos de las Víctimas
+COL553	Garantía Efectiva de los Derechos de las Víctimas
+COL554	Garantía Efectiva de los Derechos de las Víctimas
+COL555	Ciencia, Tecnología e Innovación (CTI)
+COL556	Consolidación de la Paz
+COL557	Consolidación de la Paz
+COL558	Consolidación de la Paz
+COL559	Consolidación de la Paz
+COL560	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL561	Fortalecimiento del sector agropecuario
+COL562	Ciencia, Tecnología e Innovación (CTI)
+COL563	Educación para la Inclusión Social
+COL564	Educación para la Inclusión Social
+COL565	Fortalecimiento del sector agropecuario
+COL566	Fortalecimiento de la Productividad y Competitividad
+COL567	Apoyo Transversal al desarrollo regional
+COL568	Consolidación de la Paz
+COL569	Consolidación de la Paz
+COL570	Atención Diferencial a Grupos Étnicos
+COL571	Atención Diferencial a Grupos Étnicos
+COL572	Educación para la Inclusión Social
+COL573	Educación para la Inclusión Social
+COL574	Educación para la Inclusión Social
+COL575	Primera Infancia, Niñez, Adolescencia y Juventud
+COL576	Garantía Efectiva de los Derechos de las Víctimas
+COL577	Fortalecimiento del Sector Agropecuario
+COL578	Gestión integral de la biodiversidad y de los servicios ecosistémicos
+COL579	Fortalecimiento de la productividad y la competitividad
+COL580	Medio ambiente urbano y sectorial
+COL581	Buen Gobierno
+COL582	Ciencia, Tecnología e Innovación (CTI)
+COL583	Igualdad de Oportunidades para la Prosperidad Democrática
+COL584	Desarrollo minero-energético
+COL585	Desarrollo minero-energético
+COL586	Atención diferencial a grupos étnicos
+COL587	Medio ambiente urbano y sectorial
+COL588	Fortalecimiento del sector agropecuario
+COL589	Fortalecimiento del sector agropecuario
+COL590	Fortalecimiento del sector agropecuario
+COL591	Fortalecimiento del sector agropecuario
+COL592	Apoyo transversal al desarrollo regional
+COL593	Salud y protección social
+COL594	Gestión integral de la biodiversidad y de los servicios ecosistémicos
+COL595	Seguridad alimentaria y nutricional
+COL596	Salud y protección social
+COL597	Salud y protección social
+COL598	Gestión integral de la biodiversidad y de los servicios ecosistémicos
+COL599	Fortalecimiento del sector agropecuario
+COL600	Espacios marinos y costeros
+COL601	Medio ambiente urbano y sectorial
+COL602	Buen Gobierno
+COL603	Energías renovables
+COL604	Gestión integral del recurso hídrico
+COL605	Buen Gobierno
+COL606	Reducción de la pobreza extrema
+COL607	Energías renovables
+COL608	Primera infancia, niñez, adolescencia y juventud
+COL609	Fortalecimiento del sector agropecuario
+COL610	Primera infancia, niñez, adolescencia y juventud
+COL611	Cultura
+COL612	Salud y protección social
+COL613	Medio ambiente urbano y sectorial
+COL614	Salud y protección social
+COL615	Buen Gobierno
+COL616	Gestión integral del recurso hídrico
+COL617	Medio ambiente urbano y sectorial
+COL618	Apoyo transversal al desarrollo regional
+COL619	Medio ambiente urbano y sectorial
+COL620	Ciencia, Tecnología e Innovación (CTI)
+COL621	Salud y protección social
+COL622	Buen Gobierno
+COL623	Cultura
+COL624	Primera infancia, niñez, adolescencia y juventud
+COL625	Cultura
+COL626	Primera infancia, niñez, adolescencia y juventud
+COL627	Reducción de la pobreza extrema
+COL628	No aplica
+COL629	Ciencia, Tecnología e Innovación (CTI)
+COL630	Ciencia, Tecnología e Innovación (CTI)
+COL631	Buen Gobierno
+COL632	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL633	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL634	Fortalecimiento de la Productividad y Competitividad
+COL635	Mujeres y Equidad de Género
+COL636	Medio Ambiente Urbano y Sectorial
+COL637	Mujeres y Equidad de Género
+COL638	Derechos Humanos y Derecho Internacional Humanitario
+COL639	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL640	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL641	Derechos Humanos y Derecho Internacional Humanitario
+COL642	Buen Gobierno
+COL643	Mujeres y Equidad de Género
+COL644	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL645	Restablecimiento Sostenible de las Condiciones de Vida de las Personas y Comunidades Afectadas por Desastres
+COL646	Fortalecimiento de la Productividad y Competitividad
+COL647	Fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres
+COL648	Fortalecimiento de la Productividad y Competitividad
+COL649	Fortalecimiento de la Productividad y Competitividad
+COL650	Fortalecimiento de la Productividad y Competitividad
+COL651	Fortalecimiento de la Productividad y Competitividad
+COL652	Consolidación de la Paz
+COL653	Ciencia, Tecnología e Innovación (CTI)
+COL654	Ciencia, Tecnología e Innovación (CTI)
+COL655	Fortalecimiento de la Productividad y Competitividad
+COL656	Buen Gobierno
+COL657	Buen Gobierno
+COL658	Buen Gobierno
+COL659	Consolidación de la Paz
+COL660	Consolidación de la Paz
+COL661	Buen Gobierno
+COL662	Consolidación de la Paz
+COL663	Consolidación de la Paz
+COL664	Consolidación de la Paz
+COL665	Política Nacional de Consolidación y Reconstrucción Territorial - PNCRT
+COL666	Garantía Efectiva de los Derechos de las Víctimas
+COL667	Garantía Efectiva de los Derechos de las Víctimas
+COL668	Garantía Efectiva de los Derechos de las Víctimas
+COL669	Garantía Efectiva de los Derechos de las Víctimas
+COL670	Garantía Efectiva de los Derechos de las Víctimas
+COL671	Garantía Efectiva de los Derechos de las Víctimas
+COL672	Garantía Efectiva de los Derechos de las Víctimas
+COL673	Buen Gobierno
+COL674	Buen Gobierno
+COL675	Buen Gobierno
+COL676	Garantía Efectiva de los Derechos de las Víctimas
+COL677	Garantía Efectiva de los Derechos de las Víctimas
+COL678	Derechos Humanos y Derecho Internacional Humanitario
+COL679	Derechos Humanos y Derecho Internacional Humanitario
+COL680	Garantía Efectiva de los Derechos de las Víctimas
+COL681	Fortalecimiento de la Productividad y Competitividad
+COL682	Apoyo Transversal al desarrollo regional
+COL683	Consolidación de la Paz
+COL684	Primera Infancia, Niñez, Adolescencia y Juventud
+COL685	Gestión Integral de la Biodiversidad y de los Servicios Ecosistémicos
+COL686	Salud y Protección Social
+COL687	Derechos Humanos y Derecho Internacional Humanitario
+COL688	Derechos Humanos y Derecho Internacional Humanitario
+COL689	Fomento de la Ocupación y Formación Profesional
+COL690	Fomento de la Ocupación y Formación Profesional
+COL691	Atención Diferencial a Grupos Étnicos
+COL692	Primera Infancia, Niñez, Adolescencia y Juventud
+COL693	Buen Gobierno
